@@ -1,0 +1,8 @@
+{
+  "name": "PackageCraft - কাস্টম প্যাকেজ ও প্রফিট ম্যানেজার",
+  "description": "কাস্টম প্যাকেজ অর্ডার ব্যবস্থাপনা, ডাইনামিক আইটেম সিলেক্টর, স্বয়ংক্রিয় প্রফিট ক্যালকুলেশন ও ইনভেন্টরি ট্র্যাকিং সিস্টেম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
